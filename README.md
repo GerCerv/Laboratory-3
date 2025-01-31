@@ -1,4 +1,4 @@
-# FastAPI JSON API
+# Working with JSON
 
 This is a FastAPI application that interacts with external APIs and formats JSON data.
 
